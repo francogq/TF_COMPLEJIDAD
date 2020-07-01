@@ -86,7 +86,7 @@ class cartilla():
             if self.cartilla[f][3]== 0 and f==posicion:
                 self.cartilla[f-1][3]=4
 
-   
+    #comentario    
         
     # Mostrar toda la cartilla
     def mostrarCartilla(self):
@@ -111,5 +111,7 @@ carti.mostrarCartilla()
 carti.mostrarCartilla()
 print('retornar mejor poscion')
 print(carti.posicionMejorAquitarDiamantesComputadora())'''
+
+# modificacion
 
 
