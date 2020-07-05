@@ -1,21 +1,21 @@
 # TF_COMPLEJIDAD
- JUEGO UBONGO
-Trabajo final asignado por el Curso de Complejidad Algorítmica (CC-42).
+ JUEGO UBONGO <br/>
+Trabajo final asignado por el Curso de Complejidad Algorítmica (CC-42).<br/>
 
-Integrantes
-Gallegos Quispe, Franco David
-Kuylen Aranda, Nicole Jealid
-Mondragon Arango, Renzo Stephano
+Integrantes<br/>
+Gallegos Quispe, Franco David<br/>
+Kuylen Aranda, Nicole Jealid<br/>
+Mondragon Arango, Renzo Stephano<br/>
 
-Objetivo
-Resolver los puzzle a traves de backtracking y la plantilla de gemas con fuerza bruta.
+Objetivo<br/>
+Resolver los puzzle a traves de backtracking y la plantilla de gemas con fuerza bruta.<br/>
 
-Requisitos
-Python 3.0 y PIP
-Instalación
-Clonar el repositorio
-$ git clone https://github.com/francogq/TF_COMPLEJIDAD
+Requisitos<br/>
+Python 3.0 y PIP<br/>
+Instalación<br/>
+Clonar el repositorio<br/>
+$ git clone https://github.com/francogq/TF_COMPLEJIDAD<br/>
 
-Instalar repositorios   Pygame con PIP
-$ pip install pygame
-Ejecutar main.py
+Instalar repositorios   Pygame con PIP<br/>
+$ pip install pygame<br/>
+Ejecutar main.py<br/>
